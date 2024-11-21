@@ -1,15 +1,15 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois Urbana-Champaign
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+title: Yifu Deng
+position: Ph.D. Student
+affiliation: New York University
+affiliation_link: https://cs.nyu.edu/home/index.html
+# affiliation_logo: ./assets/img/illinois.svg
+email: yifu(dot)deng(at)nyu(dot)edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at UIUC. His research lies in meta-learning, incremental learning, and image generation.
+keywords: yifu deng, deng yifu, yifudeng, dengyifu
+canonical: https://yifu-deng.github.io/
+description: Yifu Deng's homepage.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -20,21 +20,21 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+github_link: https://github.com/yifu-deng
+linkedin: https://www.linkedin.com/in/yifudeng/
+twitter: https://x.com/yifudeng12
 
 # Images 
 avatar: ../assets/img/avatar.jpg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: 
+Powered by the minimal-light theme.footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+clustrmaps_id: 
 
 # The following files will be removed from the generated website.
 exclude:
