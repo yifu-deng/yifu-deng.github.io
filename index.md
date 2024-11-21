@@ -6,14 +6,13 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am an Assistant Professor in the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://www.illinois.edu/).
+I am currently engaged in research related to **Intelligent Transportation Systems** and **Machine Learning**. My work focuses on applying data-driven methods to solve real-world transportation problems.
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+My research lies at the intersection of **Intelligent Transportation Systems** and **Computer Science**, with a special focus on building predictive and decision-making models for traffic flow, autonomous vehicles, and Internet of Vehicles (IoV). My research interests include **traffic prediction**, **data mining**, **intelligent decision-making**, and **autonomous systems**.
 
-Previously, I completed my PhD in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) and my BS in Electronic Information Engineering at [Tianjin University](http://www.tju.edu.cn/english/index.htm). I also spent time at [Johns Hopkins](https://ccvl.jhu.edu/), [Oxford VGG](https://www.robots.ox.ac.uk/~vgg/), and [National University of Singapore](https://www.comp.nus.edu.sg/). My biography is [here](./biography/).
+Previously, I completed my undergraduate studies in **Transportation** at [Chang'an University](https://en.chd.edu.cn/). Currently, I am pursuing my Master's in **Computer Science** at the [Courant Institute of Mathematical Sciences, New York University](https://cs.nyu.edu/).
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. students with interests in computer vision and machine learning. If you are interested, please send me an email. You may see details [here](./openings/).</strong>
+<strong style="color:#e74d3c; font-weight:600">
+I am actively seeking Ph.D. opportunities in **Intelligent Transportation Systems**, **Machine Learning**, and related fields, with a focus on interdisciplinary research that bridges **transportation engineering** and **computer science**.
+</strong>
 
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/contact.md %}
