@@ -3,7 +3,7 @@ title: Yifu Deng
 position: Master's Student
 affiliation: Courant Institute of Mathematical Sciences, New York University
 affiliation_link: https://cs.nyu.edu/
-affiliation_logo: ./assets/img/nyu-logo.svg
+# affiliation_logo: ./assets/img/nyu-logo.svg
 email: yifu(dot)deng(at)nyu(dot)edu
 
 # Search Engine Optimization (SEO)
@@ -28,13 +28,8 @@ twitter: https://x.com/yifudeng12
 avatar: ../assets/img/avatar.jpeg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
+footnote: Powered by the minimal-light theme.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
-
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: 
 
 # The following files will be removed from the generated website.
 exclude:
