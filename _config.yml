@@ -1,31 +1,31 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois Urbana-Champaign
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+title: Yifu Deng
+position: Master's Student
+affiliation: Courant Institute of Mathematical Sciences, New York University
+affiliation_link: https://cs.nyu.edu/
+affiliation_logo: ./assets/img/nyu-logo.svg
+email: yifu(dot)deng(at)nyu(dot)edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at UIUC. His research lies in meta-learning, incremental learning, and image generation.
+keywords: Yifu Deng, Intelligent Transportation Systems, Machine Learning, Computer Science
+canonical: https://yifudeng.github.io
+description: Yifu Deng is actively pursuing research in intelligent transportation systems, traffic prediction, and data mining.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: 
+github_link: https://github.com/yifu-deng/
+linkedin: https://www.linkedin.com/in/yifudeng/
+twitter: https://x.com/yifudeng12
 
 # Images 
-avatar: https://img.yliu.me/avatar_new.jpg
+avatar: ../assets/img/avatar.jpeg
 
 # Footnotes
 footnote: Feel free to use my website's source code.
@@ -34,7 +34,7 @@ footnote_link: https://github.com/yaoyao-liu/minimal-light
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+clustrmaps_id: 
 
 # The following files will be removed from the generated website.
 exclude:
