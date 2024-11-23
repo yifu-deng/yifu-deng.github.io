@@ -9,5 +9,5 @@ permalink: /teaching/
 <h2 style="margin: 60px 0px -15px;">Teaching</h2>
 <br>
 
-{% include_relative _includes/teachings.md %}
+{% include_relative _includes/teaching.md %}
 
