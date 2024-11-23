@@ -15,3 +15,5 @@ Previously, I completed my undergraduate studies in **Transportation** at [Chang
 <strong style="color:#e74d3c; font-weight:600">
 I am actively seeking Ph.D. opportunities in **Intelligent Transportation Systems**, **Machine Learning**, and related fields, with a focus on interdisciplinary research that bridges **transportation engineering** and **computer science**.
 </strong>
+
+{% include_relative_includes/news.md %}
