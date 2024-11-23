@@ -196,30 +196,18 @@
 
     </header>
     <section>
-
       {{ content }}
-
       <br>
-
       {% if site.enable_last_update %}
       <small>Last Update:
         <script>
-          const monthNames = ["January", "Februray", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
-          ];
+          const monthNames = ["January", "Februray", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
           var modiDate = new Date(document.lastModified);
           var showAs = modiDate.getDate() + ". " + monthNames[modiDate.getMonth()] + " " + modiDate.getFullYear();
           document.write(showAs);
         </script>
       </small>
       {% endif %}
-
-      {% if site.footnote %}
-      <div style="font: 12px/1.2 Crimson Pro, serif">
-        <br>
-        <a href="{{ site.footnote_link }}" rel="noopener">{{ site.footnote }}</a>
-      </div>
-      {% endif %}
-
       <br>
       {% if site.clustrmaps_id %}
       <div style="width:100px; pointer-events: none;">
@@ -227,7 +215,6 @@
           src='//cdn.clustrmaps.com/map_v2.js?cl=043361&w=153&t=n&d={{ site.clustrmaps_id }}&co=ffffff&cmo=3eb7f0&ct=043361'></script>
       </div>
       {% endif %}
-
     </section>
     <footer>
       <div style="font: 12px/1.2 Crimson Pro, serif">
@@ -245,6 +232,12 @@
             {% endif %}
           </small>
         </p>
+        {% if site.footnote %}
+        <div style="font: 12px/1.2 Crimson Pro, serif">
+          <br>
+          <a href="{{ site.footnote_link }}" rel="noopener">{{ site.footnote }}</a>
+        </div>
+        {% endif %}
       </div>
       <br>
       <br>
