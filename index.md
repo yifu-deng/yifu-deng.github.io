@@ -12,8 +12,6 @@ My research lies at the intersection of **Intelligent Transportation Systems** a
 
 Previously, I completed my undergraduate studies in **Transportation** at [Chang'an University](https://en.chd.edu.cn/). Currently, I am pursuing my Master's in **Computer Science** at the [Courant Institute of Mathematical Sciences, New York University](https://cs.nyu.edu/).
 
-<strong style="color:#e74d3c; font-weight:600">
 I am actively seeking Ph.D. opportunities in **Intelligent Transportation Systems**, **Machine Learning**, and related fields, with a focus on interdisciplinary research that bridges **transportation engineering** and **computer science**.
-</strong>
 
 {% include_relative_includes/news.md %}
