@@ -9,4 +9,18 @@ permalink: /teaching/
 <h2 style="margin: 60px 0px -15px;">Teaching</h2>
 <br>
 
-<!-- - Spring 2025: [Concepts of Machine Learning](https://courses.illinois.edu/schedule/2025/spring/IS/327) (IS327) -->
+<ul>
+  <li>
+    Head Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss22/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institutes</a>, 2022
+  </li>
+  <li>
+    Student Mentor, <a href="https://sites.google.com/view/cvpr-academy/">CVPR Academy</a> at <a href="https://cvpr2022.thecvf.com/">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</a>, 2022
+  </li>
+  <li>
+    Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss21/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institute</a>, 2021
+  </li>
+  <li>
+    Teaching Assistant, <a href="">Digital Image Processing</a> at <a href="http://www.tju.edu.cn/english/index.htm/">Tianjin University</a>, 2017
+  </li>
+</ul>
+
